@@ -1,0 +1,13 @@
+{
+    "installed": {
+        "client_id": "929186881753-ea6i6f3n4nn4u0eahipgt5jt52bpsoui.apps.googleusercontent.com",
+        "project_id": "getvaluerecordscs",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "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",
+        "redirect_uris": [
+            "http://localhost"
+        ]
+    }
+}
